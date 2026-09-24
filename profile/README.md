@@ -1,1 +1,4 @@
-[#TODO AL-275](https://algorone.github.io/)
+# Repozytorium otwartego kodu platformy AlgorOne
+
+Repozytorium obsługje kod platformy (https://www.algor.com.pl/algorone). 
+
